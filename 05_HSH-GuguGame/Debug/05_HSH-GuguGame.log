@@ -1,0 +1,38 @@
+﻿Build started 2016-05-19 오후 4:44:44.
+     1>Project "C:\Users\Korea Tech\Desktop\독수리\05_HSH-GuguGame\05_HSH-GuguGame.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\05_HSH_GuguGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HSH_GuguGame.cpp
+         HSH_GuguGame.cpp
+     1>HSH_GuguGame.cpp(18): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>HSH_GuguGame.cpp(14): warning C4101: 'finish' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(12): warning C4101: 'begin' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(11): warning C4101: 'num2' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(14): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(11): warning C4101: 'num1' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(16): warning C4101: 'duration' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(11): warning C4101: 'answer' :참조되지 않은 지역 변수입니다.
+     1>HSH_GuguGame.cpp(9): warning C4101: 'NumGames' :참조되지 않은 지역 변수입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt HSH_SubGame.cpp
+         HSH_SubGame.cpp
+     1>HSH_SubGame.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>HSH_SubGame.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>HSH_SubGame.cpp(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Korea Tech\Desktop\독수리\Debug\05_HSH_GuguGame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\05_HSH_GuguGame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Korea Tech\Desktop\독수리\Debug\05_HSH_GuguGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Korea Tech\Desktop\독수리\Debug\05_HSH_GuguGame.lib" /MACHINE:X86 Debug\HSH_GuguGame.obj
+         Debug\HSH_SubGame.obj
+         05_HSH-GuguGame.vcxproj -> C:\Users\Korea Tech\Desktop\독수리\Debug\05_HSH_GuguGame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\Korea Tech\Desktop\독수리\Debug\05_HSH_GuguGame.exe.manifest" /manifest Debug\05_HSH_GuguGame.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\05_HSH_GuguGame.unsuccessfulbuild".
+         Touching "Debug\05_HSH_GuguGame.lastbuildstate".
+     1>Done Building Project "C:\Users\Korea Tech\Desktop\독수리\05_HSH-GuguGame\05_HSH-GuguGame.vcxproj" (build target(s)).
+
+빌드했습니다.
+
+Time Elapsed 00:00:01.43
