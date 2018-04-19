@@ -1,0 +1,7 @@
+﻿  SmallX.cpp
+c:\users\승현\desktop\study\code\baekjoon\baekjoon\bj_10871\smallx.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\승현\desktop\study\code\baekjoon\baekjoon\bj_10871\smallx.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  BJ_10871.vcxproj -> C:\Users\승현\Desktop\Study\Code\Baekjoon\Baekjoon\Debug\BJ_10871.exe
+  BJ_10871.vcxproj -> C:\Users\승현\Desktop\Study\Code\Baekjoon\Baekjoon\Debug\BJ_10871.pdb (Full PDB)

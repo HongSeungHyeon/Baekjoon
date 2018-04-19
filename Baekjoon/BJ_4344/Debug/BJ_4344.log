@@ -1,0 +1,9 @@
+﻿  Higher_avg.cpp
+c:\users\승현\desktop\study\code\baekjoon\baekjoon\bj_4344\higher_avg.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\승현\desktop\study\code\baekjoon\baekjoon\bj_4344\higher_avg.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\승현\desktop\study\code\baekjoon\baekjoon\bj_4344\higher_avg.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  BJ_4344.vcxproj -> C:\Users\승현\Desktop\Study\Code\Baekjoon\Baekjoon\Debug\BJ_4344.exe
+  BJ_4344.vcxproj -> C:\Users\승현\Desktop\Study\Code\Baekjoon\Baekjoon\Debug\BJ_4344.pdb (Full PDB)
